@@ -1,7 +1,7 @@
-<script>
+<script lang="ts">
   import Props from './props.svelte'
 
-  const pkg = {
+  let pkg = {
     name: 'svelte',
     version: 3,
     speed: 'blazing',

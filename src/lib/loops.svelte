@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import Thing from './thing.svelte'
 
   let things = [

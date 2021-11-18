@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   let count = 0
   $: doubled = count * 2
   let incrementCount = () => (count += 1)

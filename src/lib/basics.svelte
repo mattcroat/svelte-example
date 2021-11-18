@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import src from '../assets/svelte.png'
   let name = 'darling'
 </script>

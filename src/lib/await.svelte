@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   let getRandomPokemon = async () => {
     return 'Remove this line to get random Pokemon'
 

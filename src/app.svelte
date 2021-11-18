@@ -9,6 +9,10 @@
   import Await from './lib/await.svelte'
   import EventHandling from './lib/event-handling.svelte'
   import Bindings from './lib/bindings.svelte'
+  import Lifecycle from './lib/lifecycle.svelte'
+  import Stores from './lib/stores/stores.svelte'
+  import Motion from './lib/motion.svelte'
+  import Transitions from './lib/transitions.svelte'
 </script>
 
 <main>
@@ -22,6 +26,10 @@
   <Await />
   <EventHandling />
   <Bindings />
+  <Lifecycle />
+  <Stores />
+  <Motion />
+  <Transitions />
 </main>
 
 <style>

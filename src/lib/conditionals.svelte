@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   let user = { loggedIn: false }
   let toggle = () => (user.loggedIn = !user.loggedIn)
 </script>

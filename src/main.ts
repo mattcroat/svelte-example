@@ -1,7 +1,7 @@
 import App from './app.svelte'
 import './styles/global.css'
 
-const app = new App({
+let app = new App({
   target: document.getElementById('app'),
 })
 
