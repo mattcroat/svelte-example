@@ -14,3 +14,13 @@ body {
 a {
   color: #ffadad;
 }
+
+p {
+  color: #aaa;
+  line-height: 1.4;
+}
+
+hr {
+  margin: 1rem 0;
+  border: 1px solid #3a3a3a;
+}
