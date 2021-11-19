@@ -13,6 +13,8 @@
   import Stores from './components/stores/stores.svelte'
   import Motion from './components/motion.svelte'
   import Transitions from './components/transitions.svelte'
+  import Classes from './components/classes.svelte'
+  import Composition from './components/composition/composition.svelte'
 </script>
 
 <main>
@@ -30,6 +32,8 @@
   <Stores />
   <Motion />
   <Transitions />
+  <Classes />
+  <Composition />
 </main>
 
 <style>
