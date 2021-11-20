@@ -15,6 +15,8 @@
   import Transitions from './components/transitions.svelte'
   import Classes from './components/classes.svelte'
   import Composition from './components/composition/composition.svelte'
+  import ModuleContext from './components/module-context/module-context.svelte'
+  import Debugging from './components/debugging.svelte'
 </script>
 
 <main>
@@ -34,6 +36,8 @@
   <Transitions />
   <Classes />
   <Composition />
+  <ModuleContext />
+  <Debugging />
 </main>
 
 <style>
